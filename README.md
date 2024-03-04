@@ -1,1 +1,1 @@
-# Creative_Interaction_Design24Spring
+# CreativeInteractionDesign2024Spring
